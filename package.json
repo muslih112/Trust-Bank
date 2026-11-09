@@ -1,0 +1,24 @@
+{
+  "name": "trust-bank",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/muslih112/Trust-Bank#readme",
+  "bugs": {
+    "url": "https://github.com/muslih112/Trust-Bank/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muslih112/Trust-Bank.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.3.0",
+    "lucide-react": "^1.61.0"
+  }
+}
