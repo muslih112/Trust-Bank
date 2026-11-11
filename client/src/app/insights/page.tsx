@@ -153,7 +153,7 @@ export default function InsightsPage() {
             </div>
 
             <Link
-              href="/budgets"
+              href="/insights"
               className="mt-6 inline-flex h-[38px] items-center border border-[#cececa] px-5 text-[13px] font-medium transition hover:border-[#008bb1] hover:text-[#008bb1]"
             >
               Edit budgets
